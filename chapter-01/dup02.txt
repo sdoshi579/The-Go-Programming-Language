@@ -1,0 +1,5 @@
+Hello world
+Trying golang dup02
+Hello world
+Will meet again
+Trying golang dup02
