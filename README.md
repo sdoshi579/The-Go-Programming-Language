@@ -16,3 +16,7 @@
 12. [Listen server along with the counter](./chapter-01/server2.go)
 13. [Listen server and print header and request params](./chapter-01/server3.go)
 
+## [Chapter-02](./chapter-02)
+
+1. [Echo Boiling Point of Water Using Constant](./chapter-02/boiling.go)
+2. [Echo Boiling and Freezing Point of Water Using Function to Return Float](./chapter-02/ftoc.go)
