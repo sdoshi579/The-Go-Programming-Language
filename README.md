@@ -20,3 +20,5 @@
 
 1. [Echo Boiling Point of Water Using Constant](./chapter-02/boiling.go)
 2. [Echo Boiling and Freezing Point of Water Using Function to Return Float](./chapter-02/ftoc.go)
+3. [Package for conversion to farenheit and celcius](./chapter-02/tempconv)
+4. [Import package and use it's functions](./chapter-02/cf.go)
