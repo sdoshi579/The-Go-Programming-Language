@@ -24,3 +24,11 @@
 4. [Import package and use it's functions](./chapter-02/cf.go)
 4. [Init function usage](./chapter-02/popcount.go)
 5. [Init function usage exercise](./chapter-02/popcountExercise.go)
+
+## [Chapter-03](./chapter-03)
+
+1. [Use float for SVG polygon rendering](./chapter-03/surface.go)
+2. [Remove all the positions having non Float64 value for SVG polygon rendering](./chapter-03/surfaceExercise1.go)
+3. [Using complex number to render image in grey scale](./chapter-03/mandelbrot.go)
+4. [Using complex number to render image in YCbCr scale](./chapter-03/mandelbrotExercise1.go)
+5. [Using Newton's method in finding and rendering complex numbers](./chapter-03/mandelbrotExercise2.go)
