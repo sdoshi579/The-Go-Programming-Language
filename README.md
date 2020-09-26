@@ -38,3 +38,4 @@
 9. [Get basename of the given path using strings LastIndex function](./chapter-03/basename1.go)
 10. [Print array of integers using bytes buffer](./chapter-03/printints.go)
 11. [Check if two strings are anagrams using runes](./chapter-03/anagram.go)
+12. [Use integer in bit wise operation](./chapter-03/netflag.go)
