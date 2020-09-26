@@ -24,3 +24,18 @@
 4. [Import package and use it's functions](./chapter-02/cf.go)
 4. [Init function usage](./chapter-02/popcount.go)
 5. [Init function usage exercise](./chapter-02/popcountExercise.go)
+
+## [Chapter-03](./chapter-03)
+
+1. [Use float for SVG polygon rendering](./chapter-03/surface.go)
+2. [Remove all the positions having non Float64 value for SVG polygon rendering](./chapter-03/surfaceExercise1.go)
+3. [Using complex number to render image in grey scale](./chapter-03/mandelbrot.go)
+4. [Using complex number to render image in YCbCr scale](./chapter-03/mandelbrotExercise1.go)
+5. [Using Newton's method in finding and rendering complex numbers](./chapter-03/mandelbrotExercise2.go)
+6. [Add comma at given position in string](./chapter-03/comma.go)
+7. [Add comma at given position in string using buffer writer](./chapter-03/commaExercise1.go)
+8. [Get basename of the given path](./chapter-03/basename.go)
+9. [Get basename of the given path using strings LastIndex function](./chapter-03/basename1.go)
+10. [Print array of integers using bytes buffer](./chapter-03/printints.go)
+11. [Check if two strings are anagrams using runes](./chapter-03/anagram.go)
+12. [Use integer in bit wise operation](./chapter-03/netflag.go)
