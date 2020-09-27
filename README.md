@@ -39,3 +39,9 @@
 10. [Print array of integers using bytes buffer](./chapter-03/printints.go)
 11. [Check if two strings are anagrams using runes](./chapter-03/anagram.go)
 12. [Use integer in bit wise operation](./chapter-03/netflag.go)
+
+## [Chapter-04](./chapter-04)
+
+1. [Use byte array to generate sha256 array](./chapter-04/sha256.go)
+2. [Calculate number of bit different in 2 sha256 hashes](./chapter-04/sha256Exercise1.go)
+3. [Calculate sha256, sha384, sha512 hashes of an input based on the arguments provided](./chapter-04/sha256Exercise2.go)
