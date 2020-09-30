@@ -45,3 +45,8 @@
 1. [Use byte array to generate sha256 array](./chapter-04/sha256.go)
 2. [Calculate number of bit different in 2 sha256 hashes](./chapter-04/sha256Exercise1.go)
 3. [Calculate sha256, sha384, sha512 hashes of an input based on the arguments provided](./chapter-04/sha256Exercise2.go)
+4. [Append new elements to slice](./chapter-04/append.go)
+5. [Remove empty strings from array](./chapter-04/nonempty.go)
+6. [Reverse the slice](./chapter-04/reverse.go)
+7. [Reverse array using pointers](./chapter-04/reverseExercise1.go)
+8. [Rotate slice from given position](./chapter-04/rotateExercise1.go)
