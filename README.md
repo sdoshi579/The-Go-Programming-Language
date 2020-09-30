@@ -50,3 +50,6 @@
 6. [Reverse the slice](./chapter-04/reverse.go)
 7. [Reverse array using pointers](./chapter-04/reverseExercise1.go)
 8. [Rotate slice from given position](./chapter-04/rotateExercise1.go)
+9. [Get unique strings using map](./chapter-04/dedup.go)
+10. [Get unique runes along with count](./chapter-04/charcount.go)
+11. [Get info regarding edges in graph using nested map](./chapter-04/graph.go)
