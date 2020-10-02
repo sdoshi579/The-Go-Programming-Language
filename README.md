@@ -53,3 +53,7 @@
 9. [Get unique strings using map](./chapter-04/dedup.go)
 10. [Get unique runes along with count](./chapter-04/charcount.go)
 11. [Get info regarding edges in graph using nested map](./chapter-04/graph.go)
+12. [Sort binary tree](./chapter-04/treesort.go)
+13. [Use nested struct](./chapter-04/embed.go)
+14. [Marshal struct to json object](./chapter-04/movie.go)
+15. [Unmarshal json api response to struct](./chapter-04/github.go)
