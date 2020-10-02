@@ -57,3 +57,6 @@
 13. [Use nested struct](./chapter-04/embed.go)
 14. [Marshal struct to json object](./chapter-04/movie.go)
 15. [Unmarshal json api response to struct](./chapter-04/github.go)
+16. [Parse the response in a given template](./chapter-04/issuesReport.go)
+17. [Parse the response in given HTML template](./chapter-04/issuesHtml.go)
+18. [Parsing is data type sensitive](./chapter-04/autoescape.go)
