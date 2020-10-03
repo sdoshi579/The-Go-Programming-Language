@@ -60,3 +60,8 @@
 16. [Parse the response in a given template](./chapter-04/issuesReport.go)
 17. [Parse the response in given HTML template](./chapter-04/issuesHtml.go)
 18. [Parsing is data type sensitive](./chapter-04/autoescape.go)
+
+## [Chapter-05](./chapter-05)
+
+1. [Get all the href links from webpage using recursion](./chapter-05/findlinks.go)
+2. [Get the document tree of the html page using recursion](./chapter-05/outline.go)
