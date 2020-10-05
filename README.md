@@ -67,3 +67,4 @@
 2. [Get the document tree of the html page using recursion](./chapter-05/outline.go)
 3. [Get all the href links from webpage returning multiple values](./chapter-05/findlinks1.go)
 4. [Count words and images present in html](./chapter-05/countWordsAndImages.go)
+5. [Print and log error if site is not recheable](./chapter-05/wait.go)
