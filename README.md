@@ -69,3 +69,6 @@
 4. [Count words and images present in html](./chapter-05/countWordsAndImages.go)
 5. [Print and log error if site is not recheable](./chapter-05/wait.go)
 6. [Use function as values to print the outline of webpage](./chapter-05/outline1.go)
+7. [Print square of a number using anonymous function](./chapter-05/squares.go)
+8. [Sort the keys of map using anonymous function](./chapter-05/toposort.go)
+9. [Get all the href links as a bfs traversal](./chapter-05/findlinks2.go)
