@@ -72,3 +72,4 @@
 7. [Print square of a number using anonymous function](./chapter-05/squares.go)
 8. [Sort the keys of map using anonymous function](./chapter-05/toposort.go)
 9. [Get all the href links as a bfs traversal](./chapter-05/findlinks2.go)
+10. [Get sum of the integers using variable parameters for function call](./chapter-05/sum.go)
