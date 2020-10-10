@@ -73,3 +73,8 @@
 8. [Sort the keys of map using anonymous function](./chapter-05/toposort.go)
 9. [Get all the href links as a bfs traversal](./chapter-05/findlinks2.go)
 10. [Get sum of the integers using variable parameters for function call](./chapter-05/sum.go)
+11. [Print title of the html page](./capter-05/title.go)
+12. [Print title of the html page use defer to close the buffer](./capter-05/title2.go)
+13. [Defer runs after the return values are set](./chapter-05/trace.go)
+14. [Copy url info to file](./chapter-05/fetch.go)
+15. [Copy url info to file using defer](./chapter-05/fetchExercise.go)
