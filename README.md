@@ -78,3 +78,5 @@
 13. [Defer runs after the return values are set](./chapter-05/trace.go)
 14. [Copy url info to file](./chapter-05/fetch.go)
 15. [Copy url info to file using defer](./chapter-05/fetchExercise.go)
+15. [Panic stops the application after running all defer statements](./chapter-05/defer1.go)
+16. [Catch panic so that application does not stop](./chapter-05/defer2.go)
