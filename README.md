@@ -82,3 +82,8 @@
 17. [Catch panic so that application does not stop](./chapter-05/defer2.go)
 18. [Recover from panic](./chapter-05/title3.go)
 19. [Recover from panic and return without any return statement](./chapter-05/recoverExercise.go)
+
+## [Chapter-06](./chapter-06)
+
+1. [Define object methods to calculate distance](./capter-06/geometry.go)
+
