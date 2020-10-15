@@ -87,4 +87,5 @@
 
 1. [Define object methods to calculate distance](./chapter-06/geometry.go)
 2. [Use method as pointer receiver](./chapter-06/urlvalues.go)
+3. [Struct embedding - Using methods of nested struct directly through parent struct](./chapter-06/coloredpoint.go)
 
