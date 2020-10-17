@@ -82,3 +82,12 @@
 17. [Catch panic so that application does not stop](./chapter-05/defer2.go)
 18. [Recover from panic](./chapter-05/title3.go)
 19. [Recover from panic and return without any return statement](./chapter-05/recoverExercise.go)
+
+## [Chapter-06](./chapter-06)
+
+1. [Define object methods to calculate distance](./chapter-06/geometry.go)
+2. [Use method as pointer receiver](./chapter-06/urlvalues.go)
+3. [Struct embedding - Using methods of nested struct directly through parent struct](./chapter-06/coloredpoint.go)
+4. [Use bit vector as set](./chapter-06/intset.go)
+5. [Add function to remove int from bit vector](./chapter-06/intsetExercise.go)
+
