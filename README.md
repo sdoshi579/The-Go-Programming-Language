@@ -95,3 +95,4 @@
 
 1. [Show interface usage of Fprintf function](./chapter-07/bytecounter.go)
 2. [Show interface usage of Fprintf by overwriting the write function to count words](./chapter-07/wordcounterExercise.go)
+3. [Implement new limit reader interface](./chapter-07/limitReaderExercise.go)
