@@ -91,3 +91,7 @@
 4. [Use bit vector as set](./chapter-06/intset.go)
 5. [Add function to remove int from bit vector](./chapter-06/intsetExercise.go)
 
+## [Chapter-07](./chapter-07)
+
+1. [Show interface usage of Fprintf function](./chapter-07/bytecounter.go)
+2. [Show interface usage of Fprintf by overwriting the write function to count words](./chapter-07/wordcounterExercise.go)
