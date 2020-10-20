@@ -96,3 +96,6 @@
 1. [Show interface usage of Fprintf function](./chapter-07/bytecounter.go)
 2. [Show interface usage of Fprintf by overwriting the write function to count words](./chapter-07/wordcounterExercise.go)
 3. [Implement new limit reader interface](./chapter-07/limitReaderExercise.go)
+4. [Use flag inteface to create new var for flag duration](./chapter-07/sleep.go)
+5. [Create new flag by implementing functions for flag interface](./chapter-07/tempconv.go)
+6. [Create new flag by implementing functions for flag interface exercise 7.6 and 7.7](./chapter-07/tempconv.go)

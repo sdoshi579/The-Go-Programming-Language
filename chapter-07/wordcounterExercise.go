@@ -1,9 +1,9 @@
 package main
 
 import (
-	"fmt"
-	"bytes"
 	"bufio"
+	"bytes"
+	"fmt"
 )
 
 type wordCounter int
@@ -22,7 +22,7 @@ func (w *wordCounter) Write(p []byte) (int, error) {
 	bytescanner := bufio.NewScanner(bytes.NewReader(p))
 	bytescanner.Split(bufio.ScanWords)
 	for bytescanner.Scan() {
-		*w ++
+		*w++
 	}
 	return len(p), nil
 }

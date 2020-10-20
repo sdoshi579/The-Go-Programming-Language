@@ -1,22 +1,22 @@
 package main
 
 import (
-	"fmt"
 	"bytes"
+	"fmt"
 	"io"
 	"strings"
 )
 
 type limitReader struct {
 	reader io.Reader
-	limit int
-	count int
-} 
+	limit  int
+	count  int
+}
 
 func main() {
 	l := limitReader{
 		reader: strings.NewReader("hello world"),
-		limit: 5,
+		limit:  5,
 	}
 	scan := bytes.Buffer{}
 	scan.ReadFrom(&l)
@@ -25,7 +25,7 @@ func main() {
 
 func (l *limitReader) Read(p []byte) (n int, err error) {
 	n, err = l.reader.Read(p[:l.limit])
-	l.count  = n
+	l.count = n
 	if l.count >= l.limit {
 		err = io.EOF
 	}
