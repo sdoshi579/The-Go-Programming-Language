@@ -99,3 +99,4 @@
 4. [Use flag inteface to create new var for flag duration](./chapter-07/sleep.go)
 5. [Create new flag by implementing functions for flag interface](./chapter-07/tempconv.go)
 6. [Create new flag by implementing functions for flag interface exercise 7.6 and 7.7](./chapter-07/tempconv.go)
+7. [Sorting with sort interface](./chapter-07/sorting.go)
