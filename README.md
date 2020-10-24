@@ -100,3 +100,7 @@
 5. [Create new flag by implementing functions for flag interface](./chapter-07/tempconv.go)
 6. [Create new flag by implementing functions for flag interface exercise 7.6 and 7.7](./chapter-07/tempconv.go)
 7. [Sorting with sort interface](./chapter-07/sorting.go)
+8. [Use http interface](./chapter-07/http1.go)
+9. [Handle multiple paths on server](./chapter-07/http2.go)
+10. [Use mux server for multiple paths](./chapter-07/http3.go)
+11. [Use default mux server](./chapter-07/http4.go)
