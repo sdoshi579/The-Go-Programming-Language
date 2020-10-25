@@ -104,3 +104,4 @@
 9. [Handle multiple paths on server](./chapter-07/http2.go)
 10. [Use mux server for multiple paths](./chapter-07/http3.go)
 11. [Use default mux server](./chapter-07/http4.go)
+12. [Expression evaluator interface](./chapter-07/eval.go)
