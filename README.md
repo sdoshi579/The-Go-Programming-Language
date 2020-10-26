@@ -105,3 +105,4 @@
 10. [Use mux server for multiple paths](./chapter-07/http3.go)
 11. [Use default mux server](./chapter-07/http4.go)
 12. [Expression evaluator interface](./chapter-07/eval.go)
+13. [Use interface and assertions to print xml text](./chapter-07/xmlselect.go)
