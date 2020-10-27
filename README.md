@@ -106,3 +106,7 @@
 11. [Use default mux server](./chapter-07/http4.go)
 12. [Expression evaluator interface](./chapter-07/eval.go)
 13. [Use interface and assertions to print xml text](./chapter-07/xmlselect.go)
+
+## [Chapter-08](./chapter-08)
+
+1. [Calculate fibonaci number using goroutines](./chapter-08/spinner.go)

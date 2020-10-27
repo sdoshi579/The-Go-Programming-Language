@@ -8,7 +8,7 @@ import (
 	"text/scanner"
 )
 
-type Var string 
+type Var string
 type literal float64
 type Env map[Var]float64
 
@@ -18,16 +18,16 @@ type Expr interface {
 
 type unary struct {
 	op rune
-	x Expr
+	x  Expr
 }
 
 type binary struct {
-	op rune
+	op   rune
 	x, y Expr
 }
 
 type call struct {
-	fn string
+	fn   string
 	args []Expr
 }
 
