@@ -110,3 +110,6 @@
 ## [Chapter-08](./chapter-08)
 
 1. [Calculate fibonaci number using goroutines](./chapter-08/spinner.go)
+2. [Print server time to connection](./chapter-08/clock1.go)
+3. [Listen to connection using net dial](./chapter-08/netcat1.go)
+4. [Print server to multiple connections](./chapter-08/clock2.go)
