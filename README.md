@@ -113,3 +113,6 @@
 2. [Print server time to connection](./chapter-08/clock1.go)
 3. [Listen to connection using net dial](./chapter-08/netcat1.go)
 4. [Print server to multiple connections](./chapter-08/clock2.go)
+5. [Listen to connection in async](./chapter-08/reverb1.go)
+6. [Take input and print output in concurrency](./chapter-08/netcat2.go)
+7. [Print to connection in concurrency](./chapter-08/reverb2.go)
