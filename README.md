@@ -120,3 +120,4 @@
 9. [Pass numbers between goroutines using channels](./chapter-08/pipeline.go)
 10. [Close one send channel so that all channels can be closed](./chapter-08/pipeline2.go)
 11. [Use unidirectional channels](./chapter-08/pipeline3.go)
+12. [Multiple go routines](./chapter-08/thumbnail.go)
