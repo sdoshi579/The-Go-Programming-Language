@@ -116,3 +116,7 @@
 5. [Listen to connection in async](./chapter-08/reverb1.go)
 6. [Take input and print output in concurrency](./chapter-08/netcat2.go)
 7. [Print to connection in concurrency](./chapter-08/reverb2.go)
+8. [Channel between stdin and stdout](./chapter-08/netcat3.go)
+9. [Pass numbers between goroutines using channels](./chapter-08/pipeline.go)
+10. [Close one send channel so that all channels can be closed](./chapter-08/pipeline2.go)
+11. [Use unidirectional channels](./chapter-08/pipeline3.go)
