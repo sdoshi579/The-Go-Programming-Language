@@ -121,3 +121,6 @@
 10. [Close one send channel so that all channels can be closed](./chapter-08/pipeline2.go)
 11. [Use unidirectional channels](./chapter-08/pipeline3.go)
 12. [Multiple go routines](./chapter-08/thumbnail.go)
+13. [Web crawler](./chapter-08/crawl1.go)
+14. [Web crawler concurrently](./chapter-08/crawl2.go)
+15. [Web crawler concurrently with limiting threads](./chapter-08/crawl3.go)
