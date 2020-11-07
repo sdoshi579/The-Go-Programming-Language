@@ -127,3 +127,7 @@
 16. [Countdown example with receiving from channel](./chapter-08/countdown1.go)
 17. [Countdown example with receiving from channel and abort](./chapter-08/countdown2.go)
 18. [Select multiplexing countdown timer example](./chapter-08/countdown3.go)
+19. [Directory traversal for given folder](./chapter-08/du1.go)
+20. [Directory traversal for given folder with verbose feature](./chapter-08/du2.go)
+21. [Directory traversal for given folder concurrently](./chapter-08/du3.go)
+22. [Directory traversal for given folder concurrently with verbose feature](./chapter-08/du3Exercise.go)
