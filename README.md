@@ -124,3 +124,6 @@
 13. [Web crawler](./chapter-08/crawl1.go)
 14. [Web crawler concurrently](./chapter-08/crawl2.go)
 15. [Web crawler concurrently with limiting threads](./chapter-08/crawl3.go)
+16. [Countdown example with receiving from channel](./chapter-08/countdown1.go)
+17. [Countdown example with receiving from channel and abort](./chapter-08/countdown2.go)
+18. [Select multiplexing countdown timer example](./chapter-08/countdown3.go)
