@@ -39,4 +39,3 @@ func (db database) price(w http.ResponseWriter, req *http.Request) {
 	}
 	fmt.Fprintf(w, "%s\n", price)
 }
-

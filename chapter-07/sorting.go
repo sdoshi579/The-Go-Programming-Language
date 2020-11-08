@@ -1,18 +1,18 @@
 package main
 
 import (
-	"sort"
-	"time"
-	"os"
 	"fmt"
+	"os"
+	"sort"
 	"text/tabwriter"
+	"time"
 )
 
 type Track struct {
-	Title string
+	Title  string
 	Artist string
-	Album string
-	Year int
+	Album  string
+	Year   int
 	Length time.Duration
 }
 
@@ -62,7 +62,6 @@ type customSort struct {
 func (x customSort) Len() int           { return len(x.t) }
 func (x customSort) Less(i, j int) bool { return x.less(x.t[i], x.t[j]) }
 func (x customSort) Swap(i, j int)      { x.t[i], x.t[j] = x.t[j], x.t[i] }
-
 
 func main() {
 	fmt.Println("byArtist:")

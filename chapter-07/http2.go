@@ -40,5 +40,5 @@ func (db database) ServeHTTP(w http.ResponseWriter, req *http.Request) {
 		w.WriteHeader(http.StatusNotFound)
 		fmt.Fprintf(w, "no such page: %s\n", req.URL)
 	}
-	
+
 }
