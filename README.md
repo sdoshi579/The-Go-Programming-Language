@@ -132,3 +132,5 @@
 21. [Directory traversal for given folder concurrently](./chapter-08/du3.go)
 22. [Directory traversal for given folder concurrently with verbose feature](./chapter-08/du3Exercise.go)
 23. [Directory traversal for given folder concurrently with verbose and cancellation feature](./chapter-08/du4.go)
+24. [Chat server](./chapter-08/chat.go)
+25. [Chat server with showing present members](./chapter-08/chatExercise1.go)
