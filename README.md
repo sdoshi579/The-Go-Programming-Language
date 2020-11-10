@@ -139,3 +139,5 @@
 
 1. [Bank deposit concurrency](./chapter-09/bank1.go)
 2. [Bank deposit concurrency with withdrawal feature](./chapter-09/bank1Exercise.go)
+3. [Bank deposit concurrency using semaphore lock](./chapter-09/bank2.go)
+3. [Bank deposit concurrency using mutex](./chapter-09/bank3.go)
