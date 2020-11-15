@@ -27,3 +27,10 @@ func TestIsPalindrome(t *testing.T) {
 		}
 	}
 }
+
+//go test ./chapter-11/word2 -bench=. -benchmem
+func BenchmarkIsPalindrome(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		IsPalindrome("A man, a plan, a canal: Panama")
+	}
+}
