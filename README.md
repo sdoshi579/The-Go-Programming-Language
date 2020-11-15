@@ -159,3 +159,7 @@
 3. [Echo based on various flags](./chapter-11/echo)
 4. [Send email on storage capacity warning](./chapter-11/storage.go)
 5. [Write testable code for sending mail on storage warning](./chapter-11/storage)
+
+## [Chapter-12](./chapter-12)
+
+1. [Print any format as a string using reflect type and value](./chapter-12/format.go)
