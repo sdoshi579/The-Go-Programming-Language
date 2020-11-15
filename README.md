@@ -151,3 +151,11 @@
 ## [Chapter-10](./chapter-10)
 
 1. [Blank imports](./chapter-10/jpeg.go)
+
+## [Chapter-11](./chapter-11)
+
+1. [Check whether the string is palindrome](./chapter-11/word1)
+2. [Check whether the string is palindrome or not ignoring punctuations and special characters](./chapter-11/word2)
+3. [Echo based on various flags](./chapter-11/echo)
+4. [Send email on storage capacity warning](./chapter-11/storage.go)
+5. [Write testable code for sending mail on storage warning](./chapter-11/storage)
