@@ -165,3 +165,4 @@
 1. [Print any format as a string using reflect type and value](./chapter-12/format.go)
 2. [Search values for params in URL query](./chapter-12/params)
 3. [Get the query params values in url query](./chapter-12/search.go)
+4. [Get the methods of the given interface](./chapter-12/methods.go)
